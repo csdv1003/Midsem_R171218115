@@ -1,0 +1,6 @@
+int pro(int, int)
+{
+int product,a,b;
+product=a*b;
+return product;
+}

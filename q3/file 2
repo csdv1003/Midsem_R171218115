@@ -1,4 +1,4 @@
-Void sub(int a,int b)
+void sub(int a, int b)
 {
 int diff;
 diff=a-b;

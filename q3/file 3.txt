@@ -4,3 +4,4 @@ int product,a,b;
 product=a*b;
 return product;
 }
+}
